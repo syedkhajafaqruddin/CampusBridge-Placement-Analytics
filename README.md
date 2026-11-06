@@ -371,3 +371,6 @@ intended to support.
 **Tools:** Microsoft Excel · Power Query · Microsoft Power BI · DAX
 
 **Project:** CampusBridge --- Campus Placement Analytics Dashboard
+Author
+--syed khaja faqruddin
+Email: syedkhajafaqruddin@gmail.com
